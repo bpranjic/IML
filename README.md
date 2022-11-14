@@ -1,4 +1,4 @@
-# IML
+# Introduction to Machine Learning ETH 2022
 ## Task 1
 Given a vector x, the goal was to predict a value y as a linear function of a set of feature transformations. Generating the Pseudoinverse for the matrix product to directly get the weights was enough to pass the baseline.
 
